@@ -8,3 +8,10 @@ This is the final project repository of CPSC 8380 Advanced Data Structures.The g
 - libpysal
 - other requirements are list in requirements.yaml
 
+# Result: Bowyer-Watson
+
+<img
+  src="BowyerWatson_result.jpg"
+  alt="Alt text"
+  title="Bowyer-Watson Algorithm"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
